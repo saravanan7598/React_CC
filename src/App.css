@@ -1,0 +1,19 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+}
+body{
+    /* background-color: rgba(240, 240, 240, 0.941); */
+    background: white;
+    
+     /* background-color: #ffde4dfb; */
+
+}
+.home-page
+{
+      display: flex; 
+      gap: 20px; 
+     overflow: hidden;
+}
